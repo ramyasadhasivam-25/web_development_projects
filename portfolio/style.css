@@ -1,0 +1,72 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #14213d;
+}
+
+header {
+    text-align: center;
+    background-color: #00171f;
+    
+    padding: 20px;
+    color: #fca311;
+}
+header p{
+    color: #11fc30;
+}
+
+h1 {
+    margin: 0;
+}
+
+.project {
+    border: 1px solid #814f4f;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+#contact a {
+    text-decoration: none;
+    color:#e07178;
+}
+
+#about{
+    padding: 10px;
+    color: #fca311;
+
+}
+#about h2{
+color:#11fc30;
+}
+
+#projects{
+    padding: 10px;
+    background-color:rgb(12, 130, 203);
+    border-radius: 30px;
+}
+
+#contact{
+    padding: 10px;
+}
+
+.project{
+    color :#350f0f;
+    background-color: #250bba;
+
+}
+#contact{
+    color: #fca311;
+}
+
+#projects p{
+    color:rgb(156, 145, 145);
+}
+#projects h3{
+    color: #11fc30;
+}
+#contact h2{
+    color: #11fc30;
+}
+
